@@ -36,3 +36,7 @@ Authors:
 Michael Durller
 
 
+
+QT5 is a requirement for this code and licensed under LGPL 2.1
+
+A copy of the license can be found at:  https://opensource.org/license/lgpl-2-1
